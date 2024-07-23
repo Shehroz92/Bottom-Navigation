@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BottomNavigation" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">#3E1785</item>
+        <item name="colorPrimaryDark">#3F51B5</item>
+        <item name="colorAccent">#009688</item>
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.BottomNavigation" parent="Base.Theme.BottomNavigation" >
+        <item name="colorPrimary">#132273</item>
+        <item name="colorPrimaryDark">#3F51B5</item>
+        <item name="colorAccent">#009688</item>
+
+    </style>
+</resources>
